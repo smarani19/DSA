@@ -1,1 +1,1 @@
-This repository consists of almost all the DSA questions and concepts i have gone through so far. This consists mainly the solutions to Kunal Kushwaha's DSA sheet along with a few concepts and questions solved by Love Babbar and Strivers.
+This repository consists of almost all the DSA questions and concepts i have gone through so far. This consists mainly the solutions to Kunal Kushwaha's DSA sheet along with a few concepts and questions covered by Love Babbar and Strivers.
